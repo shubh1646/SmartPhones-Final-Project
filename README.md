@@ -40,7 +40,17 @@
 
 
 
+#### Navigate To venue and save event in Calander 
 
+![image](https://user-images.githubusercontent.com/42703011/57348587-a4d9a880-7124-11e9-818a-9e3fefa956b4.png)
+![image](https://user-images.githubusercontent.com/42703011/57348588-a7d49900-7124-11e9-882b-8e4070936248.png)
+
+
+
+#### Registration Page 
+
+![image](https://user-images.githubusercontent.com/42703011/57348618-c6d32b00-7124-11e9-955d-381d2809927d.png)
+![image](https://user-images.githubusercontent.com/42703011/57348621-c9358500-7124-11e9-9638-d750b1c8a9e2.png)
 
 
 
