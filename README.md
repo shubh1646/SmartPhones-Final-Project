@@ -1,5 +1,5 @@
 # SmartPhones-Final-Project
-## NUPM IOS application 
+##  IOS application 
 
 
 ### Features
