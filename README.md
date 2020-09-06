@@ -28,9 +28,6 @@
 
 
 
-#### student can see all the board members of the organisation and can reach them via email through contact me feature of the application.
-![image](https://user-images.githubusercontent.com/42703011/57348371-d4d47c00-7123-11e9-9c05-b9412f5368dd.png)
-![image](https://user-images.githubusercontent.com/42703011/57348500-40b6e480-7124-11e9-9843-972581b52cc1.png)
 
 
 #### Student can see all the Events and Register 
